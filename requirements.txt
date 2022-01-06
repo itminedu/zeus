@@ -3,7 +3,7 @@ ansicolors==1.0.2
 anyjson==0.3.3
 billiard==2.7.3.17
 celerymon==1.0.3
-celery==2.5.3
+celery==5.2.2
 django-celery==2.5.5
 kombu==2.5.16
 amqp==1.0.13
