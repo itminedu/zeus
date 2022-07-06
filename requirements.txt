@@ -22,7 +22,7 @@ django-mptt==0.5.2
 html5lib==0.9999999
 bleach==1.4
 markdown==2.5.1
-lxml==3.4.0
+lxml==4.9.1
 django-environ==0.4.5
 gunicorn==19.0
 django-picklefield==0.3.2
