@@ -3,4 +3,4 @@ pytest-env
 pytest-django
 pytest-cov
 responses==0.10.7
-ipython==0.13
+ipython==8.10.0
